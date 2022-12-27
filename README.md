@@ -1,3 +1,3 @@
 # Ana-Seg.github.io
 My Portfolio
-<img src= "prof-pic.jpeg" width='300'/>
+<img src= "Prof-pic.jpg" width='200'/>
